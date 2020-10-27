@@ -31,7 +31,7 @@ sites.
 Requirements
 ============
 
-Core
+core
 ----
 
 * Python 2.7+ or Python 3.4+ (Whatever is supported by your version of Django)
